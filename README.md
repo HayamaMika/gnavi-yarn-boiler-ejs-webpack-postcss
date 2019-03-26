@@ -1,4 +1,4 @@
-# npm-boiler-pug-babel-sass
+# yarn-boiler-ejs-webpack-postcss
 
 - yarn-boiler-ejs-webpack-postcssリポジトリ
 
