@@ -60,7 +60,7 @@ $ yarn builwatchd
     .eslintrc
     .gitignore
     .node-version
-    .Makefile
+    Makefile
     postcss.config.js
     webpack.config.js
     package.json
